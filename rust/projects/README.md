@@ -10,3 +10,4 @@
 6. [iter](iter)
 7. [lifetimes](lifetimes)
 8. [generics](generics)
+9. [traits](traits)
