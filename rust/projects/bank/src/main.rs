@@ -61,6 +61,7 @@ fn add_account(bank: &mut Bank, account: Account) {
 
 fn main() {
     let bank = Bank::new();
+
     let account = Account::new(1, String::from("Lux"));
     let account1 = Account::new(1, String::from("Nox"));
 
@@ -96,6 +97,5 @@ fn main() {
 
     bank.add_account(account);
     println!("(5) {:#?}", &bank);
-
 
 }

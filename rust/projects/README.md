@@ -1,6 +1,6 @@
 # Projects
 
-## Order of Projects
+## Basic syntax
 
 1. [deck](deck)
 2. [bank](bank)
@@ -11,3 +11,7 @@
 7. [lifetimes](lifetimes)
 8. [generics](generics)
 9. [traits](traits)
+
+## Game
+
+1. [pong](pong)
